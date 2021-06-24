@@ -1,0 +1,4 @@
+My name is Usama Saleem, MISIS No. M00676098, I am a 3rd year Computer Systems Engineering student in Middlesex University Dubai.
+This is a solo project that I have done. I have chosen to make a website about anime for this project. This project was really fun to make and I enjoyed trying new things using HTML and CSS.
+I really liked using the marquee function to display moving text.
+I have used ajax to show this information on the webpage. 
